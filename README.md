@@ -1,6 +1,27 @@
 # Mallan-Gendo
 Unambigous artificial auxiliary pronunciation for hexadecimal numerals
 
+## Introduction
+Mallan-Gendo is a system to make someone able to pronounce hexadecimal values, just like we can pronounce decimals values. Hexadecimal values are widely used in computer science and software engineering to give a more convenient representation to humans of binary values that are native to computers. Hexadecimal values can be converted in a lossless way from and to binary and decimal values.
+
+There are 16 different distinct words, like mallan and gendo, each for one of the 16 hexidecimal values, which range from 0-F (0-15 in decimal). The lowest value is mallan (0), the highest value in gendo (F, or 15 as decimal value). They can be compounded as in mallan-gendo, and the compounded words can be combined in pairs such as maillan-gendo mallan-gendo. A compounded word is equivalent to a byte (more precisely an octet). Combined pairs are equivalent to multiple bytes/octets.
+
+The name mallan-gendo itself therefore is the decimal value 15 (hexadecimal value 0F), and contains in itself all the possible phonetic distinctions that are employed in constructing the sounds of the hexadecimal values. The sounds at each of 4 positions in the word are paired, where each pair has a 'zero' and a 'value' sound, corresponding to 0 or a value of 1, 2, 4 or 8:
+
+|Low sound|High sound|Low value|High value|
+|:-:|:-:|:-:|:-:|
+|m---|g----|0|8|
+|-a--|-e---|0|4|
+|--ll-|--nd--|0|2|
+|---an|----o|0|1|
+
+The total value of a word is therefore calculated by replacing each sound in all 4 positions in the word with its actual value, and then summing all the resulting values, e.g.:
+|Word|Sounds|Values per sound|Total value|
+|:-:|:-:|:-:|:-:|
+|mallan|m+a+ll+an|0+0+0+0|0|
+|gendo|g+e+nd+0|8+4+2+1|15|
+
+To calcualte the value 
 ## Pronunciation
 |Letter|English|Remarks|IPA|
 |:-:|:-----:|:-----:|:-:|

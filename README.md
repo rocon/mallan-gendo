@@ -19,16 +19,16 @@ Each word always contains two syllables (separated with a '.'), with the stress 
 |Word|IPA|
 |:-:|:-:|
 |mallan|/&#0712;m&#x0251;.l&#x0251;n/|
-|gendo|/&#0712;g&#x0251;n.do/|
+|gendo|/&#0712;&#x025B;n.do/|
 
 Compound words are joined with a '-', and in such cases the second word have the primary stress and the first word the secondary stress (indicated by a preceding '&#0716;'), e.g.:
 
 |Word|IPA|
 |:-:|:-:|
-|mallan-gendo|/&#0716;m&#x0251;.l&#x0251;n &#0712;g&#x0251;n.do/|
+|mallan-gendo|/&#0716;m&#x0251;.l&#x0251;n &#0712;g&#x025B;n.do/|
 
 ## Full chart
-|Word|IPA||Hexadecimal value|Decimal value|
+|Word|IPA|Hexadecimal value|Decimal value|
 |:-:|:-:|:-:|:-:|
 |mallan|/&#0712;m&#x0251;.l&#x0251;n/|00|0|
 |mallo|/&#0712;m&#x0251;.lo/|01|1|

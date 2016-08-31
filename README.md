@@ -19,8 +19,8 @@ The total value of a word is therefore calculated by replacing each sound in all
 
 |Word|Sounds|Values per sound|Total value|
 |:-:|:-:|:-:|:-:|
-|mallan|m+a+ll+an|0+0+0+0|0|
-|gendo|g+e+nd+0|8+4+2+1|15|
+|mallan|m-a-ll-an|0+0+0+0|=0|
+|gendo|g-e-nd-o|8+4+2+1|=15|
 
 ## Pronunciation
 |Letter|English|Remarks|IPA|

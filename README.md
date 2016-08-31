@@ -13,8 +13,8 @@ Unambigous artificial auxiliary pronunciation for hexadecimal numerals
 |d|as in dad||/d/|
 |o|as in no|rounded vowel as American English, not unrounded as in British English|/o/|
 
-### Syllables and stress
-Each word always contains two syllables (separated with a '.'), with the stress always on the first syllable (indicated by a preceding '&#0712;'), e.g.:
+### Syllables, stress, compound words and combined pairs 
+Each single word always contains two syllables (separated with a '.'), with the stress always on the first syllable (indicated by a preceding '&#0712;'), e.g.:
 
 |Word|IPA|
 |:-:|:-:|
@@ -26,6 +26,12 @@ Compound words are joined with a '-', and in such cases the second word have the
 |Word|IPA|
 |:-:|:-:|
 |mallan-gendo|/&#0716;m&#x0251;.l&#x0251;n &#0712;g&#x025B;n.do/|
+
+Compound words can be combined in pairs (separated with a space), e.g.:
+
+|Word|IPA|
+|:-:|:-:|
+|mallan-gendo mallan-gendo|/&#0716;m&#x0251;.l&#x0251;n &#0712;g&#x025B;n.do &#0716;m&#x0251;.l&#x0251;n &#0712;g&#x025B;n.do/|
 
 ## Full chart
 |Word|IPA|Hexadecimal value|Decimal value|

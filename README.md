@@ -10,18 +10,18 @@ The name mallan-gendo itself therefore is the decimal value 15 (hexadecimal valu
 
 |Low sound|High sound|Low value|High value|
 |:-:|:-:|:-:|:-:|
-|m---|g----|0|8|
-|-a--|-e---|0|4|
-|--ll-|--nd--|0|2|
-|---an|----o|0|1|
+|m---|g---|0|8|
+|-a--|-e--|0|4|
+|--ll-|--nd-|0|2|
+|---an|---o|0|1|
 
 The total value of a word is therefore calculated by replacing each sound in all 4 positions in the word with its actual value, and then summing all the resulting values, e.g.:
+
 |Word|Sounds|Values per sound|Total value|
 |:-:|:-:|:-:|:-:|
 |mallan|m+a+ll+an|0+0+0+0|0|
 |gendo|g+e+nd+0|8+4+2+1|15|
 
-To calcualte the value 
 ## Pronunciation
 |Letter|English|Remarks|IPA|
 |:-:|:-----:|:-----:|:-:|

@@ -8,7 +8,7 @@ There are 16 different distinct words, like mallan and gendo, each for one of th
 
 The name mallan-gendo itself therefore is the decimal value 15 (hexadecimal value 0F), and contains in itself all the possible phonetic distinctions that are employed in constructing the sounds of the hexadecimal values. The sounds at each of 4 positions in the word are paired, where each pair has a 'zero' and a 'value' sound, corresponding to 0 or a value of 1, 2, 4 or 8:
 
-|Low sound|High sound|Low value|High value|
+|Zero sound|Value sound|Zero|Value|
 |:-:|:-:|:-:|:-:|
 |m---|g---|0|8|
 |-a--|-e--|0|4|

@@ -30,11 +30,19 @@ Compound words are joined with a '-', and in such cases the second word have the
 ## Full chart
 |Word|IPA|Hexadecimal value|Decimal value|
 |:-:|:-:|:-:|:-:|
-|mallan|/&#0712;m&#x0251;.l&#x0251;n/|00|0|
-|mallo|/&#0712;m&#x0251;.lo/|01|1|
-|mandan|/&#0712;m&#x0251;n.d&#x0251;n/|02|2|
-|mando|/&#0712;m&#x0251;n.do/|03|3|
-|mellan|/&#0712;m&#x025B;.l&#x0251;n/|04|4|
-|mello|/&#0712;m&#x025B;.lo/|05|5|
-|mendan|/&#0712;m&#x025B;n.d&#x0251;n/|06|6|
-|mendo|/&#0712;m&#x025B;n.do/|07|7|
+|mallan|/&#0712;m&#x0251;.l&#x0251;n/|0|0|
+|mallo|/&#0712;m&#x0251;.lo/|1|1|
+|mandan|/&#0712;m&#x0251;n.d&#x0251;n/|2|2|
+|mando|/&#0712;m&#x0251;n.do/|3|3|
+|mellan|/&#0712;m&#x025B;.l&#x0251;n/|4|4|
+|mello|/&#0712;m&#x025B;.lo/|5|5|
+|mendan|/&#0712;m&#x025B;n.d&#x0251;n/|6|6|
+|mendo|/&#0712;m&#x025B;n.do/|7|7|
+|gallan|/&#0712;g&#x0251;.l&#x0251;n/|8|8|
+|gallo|/&#0712;g&#x0251;.lo/|9|9|
+|gandan|/&#0712;g&#x0251;n.d&#x0251;n/|A|10|
+|gando|/&#0712;g&#x0251;n.do/|B|11|
+|gellan|/&#0712;g&#x025B;.l&#x0251;n/|C|12|
+|gello|/&#0712;g&#x025B;.lo/|D|13|
+|gendan|/&#0712;g&#x025B;n.d&#x0251;n/|E|14|
+|gendo|/&#0712;g&#x025B;n.do/|F|15|

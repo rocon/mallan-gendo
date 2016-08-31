@@ -19,7 +19,7 @@ Each word always contains two syllables (separated with a '.'), with the stress 
 |Word|IPA|
 |:-:|:-:|
 |mallan|/&#0712;m&#x0251;.l&#x0251;n/|
-|gendo|/&#0712;&#x025B;n.do/|
+|gendo|/&#0712;g&#x025B;n.do/|
 
 Compound words are joined with a '-', and in such cases the second word have the primary stress and the first word the secondary stress (indicated by a preceding '&#0716;'), e.g.:
 
@@ -33,4 +33,8 @@ Compound words are joined with a '-', and in such cases the second word have the
 |mallan|/&#0712;m&#x0251;.l&#x0251;n/|00|0|
 |mallo|/&#0712;m&#x0251;.lo/|01|1|
 |mandan|/&#0712;m&#x0251;n.d&#x0251;n/|02|2|
-|mellan|/&#0712;m&#x025B;.l&#x0251;n/|03|3|
+|mando|/&#0712;m&#x0251;n.do/|03|3|
+|mellan|/&#0712;m&#x025B;.l&#x0251;n/|04|4|
+|mello|/&#0712;m&#x025B;.lo/|05|5|
+|mendan|/&#0712;m&#x025B;n.d&#x0251;n/|06|6|
+|mendo|/&#0712;m&#x025B;n.do/|07|7|

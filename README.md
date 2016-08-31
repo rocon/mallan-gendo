@@ -15,11 +15,16 @@ Unambigous artificial auxiliary pronunciation for hexadecimal numerals
 
 ### Syllables and stress
 Each word always contains two syllables (separated with a '.'), with the stress always on the first syllable (indicated by a preceding '&#0712;'), e.g.:
+|Word|IPA|
 |:-:|:-:|
 |mallan|/&#0712;m&#x0251;.l&#x0251;n/|
 |gendo|/&#0712;g&#x0251;n.do/|
 
-Compound words are joined with a '-', and in such cases the second word have the primary stress and the first word the secondary stress (indicated by a preceding '&#0716;')
+Compound words are joined with a '-', and in such cases the second word have the primary stress and the first word the secondary stress (indicated by a preceding '&#0716;').
+|Word|IPA|
+|:-:|:-:|
+|mallan-gendo|/&#0716;m&#x0251;.l&#x0251;n &#0712;g&#x0251;n.do/|
+
 ## Full chart
 |Word|IPA||Hexadecimal value|Decimal value|
 |:-:|:-:|:-:|:-:|
